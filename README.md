@@ -41,7 +41,7 @@ The manuscript body is written in formal academic register suitable for peer-rev
 3. Go to **Settings → Capabilities → Skills**.
 4. Click **Upload skill** and select the `.skill` file.
 
-Once installed, just mention "thematic analysis", "Braun and Clarke", "qualitative coding" or a similar phrase and Claude will pick the skill up.
+Once installed, just mention "thematic analysis", "Braun and Clarke", "qualitative coding" or a similar phrase and Claude will pick the skill up. You can start by providing the sources (e.g., upload the interview transripts) or point to your folder where the transcripts are saved (for Google Drive connection or via Claude CoWork). 
 
 ## Quick start
 
