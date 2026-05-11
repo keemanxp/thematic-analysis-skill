@@ -103,6 +103,4 @@ MIT. See [LICENSE](LICENSE).
 
 Issues and pull requests welcome. If you're using the skill on a real project and want to suggest a phase-level improvement (a clearer prompt, a missing edge case, a better default), open an issue with the prompt and Claude's response so the fix can be tested against a real example.
 
----
 
-*The Sepet Educator — Substack and Facebook*
